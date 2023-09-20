@@ -2,7 +2,7 @@
   
   <div>
     <div>
-      <h5 align="right"> (Best viewed in landscape mode)</h5>
+      <h6 align="right"> (Best viewed in landscape mode)</h6>
       <img align="left" width="356" height="500" src="https://raw.githubusercontent.com/YuzuZensai/YuzuZensai/main/assets/images/Yuzu.png"/>
       <h2>💝  Nice to meet you~✰ I'm Yuzu</h2>
       <p>⛩️  Full-stack software  developer, FX artist ♡</p>
