@@ -5,7 +5,7 @@
       <h6 align="right"> (Best viewed in landscape mode)</h6>
       <img align="left" width="356" height="500" src="https://raw.githubusercontent.com/YuzuZensai/YuzuZensai/main/assets/images/Yuzu.png"/>
       <h3>💝  Nice to meet you~✰ I'm Yuzu</h3>
-      <p>⛩️  Full-stack software  developer, FX artist ♡</p>
+      <p>⛩️  Full-stack software  developer, FX artist, and a student ♡</p>
       <p>✨ Enjoy editing videos and making effects for fun, watch anime and movies, read manga and novels. Really into Japanese culture</p>
     </div>
     <br/><br/>
